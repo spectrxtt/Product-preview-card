@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/spectrxtt/Product-preview-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/spectrxtt/Product-preview-card.git)
+- Live Site URL: [Live site URL here](https://spectrxtt.github.io/Product-preview-card/)
 
 ## My process
 
@@ -53,5 +53,5 @@ I want to continue learning how to better use divs and their positioning and oth
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/SPECTRE_tt)
+- Frontend Mentor - [CLICK HERE](https://www.frontendmentor.io/profile/spectrxtt)
+- Twitter - [CLICK HERE](https://www.twitter.com/SPECTRE_tt)
